@@ -1,2 +1,0 @@
-set(heron_msgs_MESSAGE_FILES "/home/dennis-18/Simulation-Dreamer-Phy/src/heron/heron_msgs/msg/Course.msg;/home/dennis-18/Simulation-Dreamer-Phy/src/heron/heron_msgs/msg/Drive.msg;/home/dennis-18/Simulation-Dreamer-Phy/src/heron/heron_msgs/msg/Helm.msg;/home/dennis-18/Simulation-Dreamer-Phy/src/heron/heron_msgs/msg/Sense.msg;/home/dennis-18/Simulation-Dreamer-Phy/src/heron/heron_msgs/msg/Status.msg")
-set(heron_msgs_SERVICE_FILES "")

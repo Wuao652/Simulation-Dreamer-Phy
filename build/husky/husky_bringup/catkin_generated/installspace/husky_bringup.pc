@@ -1,8 +1,0 @@
-prefix=/home/dennis-18/Simulation-Dreamer-Phy/install
-
-Name: husky_bringup
-Description: Description of husky_bringup
-Version: 0.4.5
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

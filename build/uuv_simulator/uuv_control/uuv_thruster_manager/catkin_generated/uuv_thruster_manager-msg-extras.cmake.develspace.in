@@ -1,2 +1,0 @@
-set(uuv_thruster_manager_MESSAGE_FILES "")
-set(uuv_thruster_manager_SERVICE_FILES "/home/dennis-18/Simulation-Dreamer-Phy/src/uuv_simulator/uuv_control/uuv_thruster_manager/srv/GetThrusterCurve.srv;/home/dennis-18/Simulation-Dreamer-Phy/src/uuv_simulator/uuv_control/uuv_thruster_manager/srv/ThrusterManagerInfo.srv;/home/dennis-18/Simulation-Dreamer-Phy/src/uuv_simulator/uuv_control/uuv_thruster_manager/srv/SetThrusterManagerConfig.srv;/home/dennis-18/Simulation-Dreamer-Phy/src/uuv_simulator/uuv_control/uuv_thruster_manager/srv/GetThrusterManagerConfig.srv")

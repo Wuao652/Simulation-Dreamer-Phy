@@ -1,8 +1,0 @@
-prefix=/home/dennis-18/Simulation-Dreamer-Phy/devel
-
-Name: husky_gazebo
-Description: Description of husky_gazebo
-Version: 0.4.5
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

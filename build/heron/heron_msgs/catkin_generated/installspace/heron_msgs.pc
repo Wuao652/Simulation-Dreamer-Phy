@@ -1,8 +1,0 @@
-prefix=/home/dennis-18/Simulation-Dreamer-Phy/install
-
-Name: heron_msgs
-Description: Description of heron_msgs
-Version: 0.3.2
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: std_msgs message_runtime
