@@ -1,0 +1,8 @@
+prefix=/home/dennis-18/Simulation-Dreamer-Phy/devel
+
+Name: heron_controller
+Description: Description of heron_controller
+Version: 0.1.0
+Cflags: -I/home/dennis-18/Simulation-Dreamer-Phy/src/heron/heron_controller/include
+Libs: -L${prefix}/lib 
+Requires: 
